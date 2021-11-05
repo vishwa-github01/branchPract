@@ -8,3 +8,4 @@ if ans = "yes":
 else:
   print("Drink water")
   print("drink soda")
+  print("drink lemon soda")
