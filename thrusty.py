@@ -7,4 +7,4 @@ if ans = "yes":
   
 else:
   print("Drink water")
-  print("grink soda")
+  print("drink soda")
